@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+    --rufous: #A40101;
+    --viridian-gren: #2ca3ab;
+    --silver: #cacaca;
+    --oragen: #f3610e;
+    --cadet: rgb(11, 87, 149);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    
+    width: 1600px;
+    height: 1000px;
+    margin: auto;
+}
+
+.cabezera {
+    background: #1d1b45;
+    width: 1550px;
+    height: 80px;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+.arriba {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px 50px 50px 50px;
+    float: right;
+}
+
+i {
+    font-size: 20px;
+    color: black;
+    float: left;
+}
+
+.franja2 {
+    width: 1595px;
+    
+}
+
+h3 {
+    background: #1d1a45;
+    color: white;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.formulario {
+    border: solid 1px black;
+    height: 1400px;
+}
+
+form {
+    background: #c4c4c4;
+    width: 1400px;
+    height: 1180px;
+    margin: auto;
+    margin-top: 40px;
+    border: solid 1px black;
+}
+
+input {
+    width: 400px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.input2 {
+    width: 660px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.desplegable {
+    width: 660px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.desplegable2 {
+    width: 430px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.input3 {
+    width: 440px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h4 {
+    width: 1350px;
+    height: 25px;
+    background: #2ca3ab;
+    color: white;
+    font-style: normal;
+    padding: 8px; 
+    border-radius: 6px 6px 6px 6px;
+    text-align: center;
+    align-items: center;
+    margin: 5px auto;
+}
+
+h5 {
+    color: black;
+    padding: 8px;
+    width: 1350px;
+    font-size: 15px;
+    align-items: center;
+    text-align: left;
+}
+
+.radio{
+    width: 12px;
+    height: 12px;
+    text-align: center;
+    align-items: center;
+}
+
+.rad p{
+    text-align: center;
+    align-items: center;
+}
+
+
+.guardar {
+ background: #f3610e;
+ width: 150px;
+ height: 40px;
+ font-size: 11pt;
+ text-align: center;
+ align-items: center;
+ border: solid 1px white;
+ border-radius: 10px 10px 10px 10px;
+ margin-bottom: 20px;
+ margin-left: 0px;
+}
+
+.guardar a{
+    text-align: center;
+    align-items: center;
+}
+
+.guardar:hover {
+ background: #262b58;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}

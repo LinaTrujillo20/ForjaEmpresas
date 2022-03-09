@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+    --rufous: #A40101;
+    --viridian-gren: #2ca3ab;
+    --silver: #cacaca;
+    --oragen: #f3610e;
+    --cadet: rgb(11, 87, 149);
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    width: 1600px;
+    height: 700px;
+    
+}
+
+.dash {
+    background: #1d1b45;
+    height: 900px;
+    width: 400px;
+
+}
+
+.dash2 {
+    height: 100px;
+    width: 1200px;
+    float: right;
+    margin-top: -1000px;
+}
+
+.bienvenido {
+    height: 600px;
+    width: 1200px;
+    text-align: center;
+    float: right;
+    margin-top: -800px;
+}
+
+.pie {
+    height: 50px;
+    width: 1200px;
+    float: right;
+    margin-top: -208px;
+}
+
+
+h1 {
+    font-size: 40px;
+    color: #f3610e;
+    font-size: 40px;
+    margin: auto;
+}
+
+.logo-dash {
+    margin-top: 200px;
+}
+
+button {
+    width: 300px;
+    height: 80px;
+    font-size: 25px;
+    border: solid 2px #f3610e;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.user {
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 10px 10px 10px 10px;
+    background: #c1c3d0;
+    float: right;
+    margin-right: 80px;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.buscador {
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    border: solid 1px black;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+.buscador1  {
+    width: 60px;
+    height: 40px;
+    font-size: 20px;
+    background: #262b58;
+    border: solid 2px #2ca3ab;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    color: white;
+}
+
+.piei {
+    width: 1200px;
+}
