@@ -23,7 +23,7 @@ body{
 
 .dash {
     background: #1d1b45;
-    height: 900px;
+    height: 1000px;
     width: 400px;
 
 }
@@ -38,10 +38,11 @@ body{
 .bienvenido {
     height: 600px;
     width: 1200px;
-    text-align: center;
     float: right;
     margin-top: -800px;
 }
+
+
 
 .pie {
     height: 50px;
@@ -77,8 +78,8 @@ button {
     border-radius: 10px 10px 10px 10px;
     background: #c1c3d0;
     float: right;
-    margin-right: 80px;
-    margin-top: 10px;
+    margin-right: 40px;
+    margin-top: 20px;
 }
 
 a {
